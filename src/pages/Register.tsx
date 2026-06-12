@@ -55,7 +55,7 @@ const Register = () => {
       </aside>
 
       {/* Main Area */}
-      <main className="auth-main">
+      <main className="auth-main">``
         <div className="top-nav">
           <Link to="/" className="back-link">
             <ArrowLeft size={16} /> Bosh sahifa
